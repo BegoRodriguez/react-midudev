@@ -1,8 +1,9 @@
-article {
+.tw-followCard {
     display:flex;
     align-items:center;
     color:#fff;
     font-size: .8rem;
+    justify-content: space-between;
 }
 
 article header {
